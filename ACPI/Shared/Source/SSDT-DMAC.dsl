@@ -1,5 +1,5 @@
 // NOT Necessary hotpatch
-// Maintained by: stevezhengshiqi
+// Maintained by: stevezz3
 // Reference: https://github.com/syscl/XPS9350-macOS/blob/master/DSDT/patches/syscl_DMAC.txt by syscl
 // Add missing DMAC Device
 

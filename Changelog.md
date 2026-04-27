@@ -623,14 +623,14 @@
   - Reverse AppleIntelFramebuffer@0's connertor-type to default value
 
 
-## [XiaoMi NoteBook Pro EFI v1.2.6](https://github.com/stevezhengshiqi/XiaoMi-Pro/releases/tag/1.2.6)
+## [XiaoMi NoteBook Pro EFI v1.2.6](https://github.com/stevezz3/XiaoMi-Pro/releases/tag/1.2.6)
 ## 8-13-2018
 
 ### Change
   - Reverse back `CPUFriendProvider.kext` to the one in v1.2.2 because the one in v1.2.5 will cause KP in some devices in 10.13.3~10.13.5. If you want better CPU performance or better battery life, please read [#53](https://github.com/daliansky/XiaoMi-Pro/issues/53)
 
 
-## [XiaoMi NoteBook Pro EFI v1.2.5](https://github.com/stevezhengshiqi/XiaoMi-Pro/releases/tag/1.2.5)
+## [XiaoMi NoteBook Pro EFI v1.2.5](https://github.com/stevezz3/XiaoMi-Pro/releases/tag/1.2.5)
 ## 8-9-2018
 
   - Mojave installation becomes easier
@@ -649,7 +649,7 @@
   - No injection of ig-platform-id 0x12345678 by using `config_install.plist` anymore, `WhateverGreen` can help do this.
 
 
-## [XiaoMi NoteBook Pro EFI v1.2.4](https://github.com/stevezhengshiqi/XiaoMi-Pro/releases/tag/1.2.4)
+## [XiaoMi NoteBook Pro EFI v1.2.4](https://github.com/stevezz3/XiaoMi-Pro/releases/tag/1.2.4)
 ## 7-27-2018
 
 ### Update
@@ -674,7 +674,7 @@
   - Edit `SSDT-PCIList.aml` to let `System Information.app` show more PCI devices
 
 
-## [XiaoMi NoteBook Pro EFI v1.2.2](https://github.com/stevezhengshiqi/XiaoMi-Pro/releases/tag/1.2.2)
+## [XiaoMi NoteBook Pro EFI v1.2.2](https://github.com/stevezz3/XiaoMi-Pro/releases/tag/1.2.2)
 ## 5-14-2018
 
 ### Update
@@ -707,7 +707,7 @@
   - Edit `SSDT-LPC.aml` to load native AppleLPC
 
 
-## [XiaoMi NoteBook Pro EFI v1.1.1](https://github.com/stevezhengshiqi/XiaoMi-Pro/releases/tag/1.1.1)
+## [XiaoMi NoteBook Pro EFI v1.1.1](https://github.com/stevezz3/XiaoMi-Pro/releases/tag/1.1.1)
 ## 4-8-2018
 
   - Support for 10.13.4 installation

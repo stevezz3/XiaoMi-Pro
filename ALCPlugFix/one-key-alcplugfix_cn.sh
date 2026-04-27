@@ -1,7 +1,7 @@
 #!/bin/bash
 #set -x # for DEBUGGING
 
-# stevezhengshiqi重写于2019.02.27, 特别感谢@Menchen
+# stevezz3重写于2019.02.27, 特别感谢@Menchen
 # 支持小米笔记本Pro (ALC298,节点99)
 
 # 界面 (参考:http://patorjk.com/software/taag/#p=display&f=Ivrit&t=P%20l%20u%20g%20F%20i%20x)

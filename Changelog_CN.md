@@ -623,14 +623,14 @@
   * 回滚 AppleIntelFramebuffer@0 的接口类型
 
 
-## [XiaoMi NoteBook Pro EFI v1.2.6](https://github.com/stevezhengshiqi/XiaoMi-Pro/releases/tag/1.2.6)
+## [XiaoMi NoteBook Pro EFI v1.2.6](https://github.com/stevezz3/XiaoMi-Pro/releases/tag/1.2.6)
 ## 8-13-2018
 
 ### 变更
   * 回滚 `CPUFriendProvider.kext` 至v1.2.2版本，因为v1.2.5的会导致部分机器在10.13.3～10.13.5下内核报错。如果你想要更好的CPU性能，请阅读[#53](https://github.com/daliansky/XiaoMi-Pro/issues/53)
 
 
-## [XiaoMi NoteBook Pro EFI v1.2.5](https://github.com/stevezhengshiqi/XiaoMi-Pro/releases/tag/1.2.5)
+## [XiaoMi NoteBook Pro EFI v1.2.5](https://github.com/stevezz3/XiaoMi-Pro/releases/tag/1.2.5)
 ## 8-9-2018
 
   * Mojave的安装变得更简单
@@ -649,7 +649,7 @@
   * 不用通过 `config_install.plist` 注入显卡id 0x12345678了，新版  `WhateverGreen` 可以做到
 
 
-## [XiaoMi NoteBook Pro EFI v1.2.4](https://github.com/stevezhengshiqi/XiaoMi-Pro/releases/tag/1.2.4)
+## [XiaoMi NoteBook Pro EFI v1.2.4](https://github.com/stevezz3/XiaoMi-Pro/releases/tag/1.2.4)
 ## 7-27-2018
 
 ### 更新
@@ -674,7 +674,7 @@
   * 修改 `SSDT-PCIList.aml`，让 `系统报告.app` 显示更多PCI设备
 
 
-## [XiaoMi NoteBook Pro EFI v1.2.2](https://github.com/stevezhengshiqi/XiaoMi-Pro/releases/tag/1.2.2)
+## [XiaoMi NoteBook Pro EFI v1.2.2](https://github.com/stevezz3/XiaoMi-Pro/releases/tag/1.2.2)
 ## 5-14-2018
 
 ### 更新
@@ -707,7 +707,7 @@
   * 修改 `SSDT-LPC.aml` 已加载原生电源驱动 AppleLPC
 
 
-## [XiaoMi NoteBook Pro EFI v1.1.1](https://github.com/stevezhengshiqi/XiaoMi-Pro/releases/tag/1.1.1)
+## [XiaoMi NoteBook Pro EFI v1.1.1](https://github.com/stevezz3/XiaoMi-Pro/releases/tag/1.1.1)
 ## 4-8-2018
 
   * 支持10.13.4安装使用
